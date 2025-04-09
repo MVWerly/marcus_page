@@ -17,7 +17,7 @@ const Description = () => (
         muito competitiva. Estou sempre pronto para enfrentar novos desafios.
         Atualmente, estou me especializando em desenvolvimento frontend.
       </p>
-      <a href="/Marcus_cv.pdf" download="Marcus_cv.pdf">
+      <a href="/marcus_cv.pdf" download="marcus_cv.pdf">
         Dowload CV<i className="bi bi-box-arrow-down"></i>
       </a>
     </div>
